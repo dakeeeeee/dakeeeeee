@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Dakeeeeee </h1>
+<h1 align="center">Hi ☦︎, I'm Dakeeeeee </h1>
 <h3 align="center">A passionate programmer from the USA</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/GB2kusUamFYAAAAC/guts-berserk-guts.gif">
 
