@@ -1,7 +1,7 @@
   <h1 align="center">Hi, I'm Dane </h1>
 <h3 align="center">A programmer from Texas</h3>
 
-- I’m currently learning **Java**
+- I’m currently learning **powershell**
 
 - Ask me about **Anything python, c++, and bash related**
 
